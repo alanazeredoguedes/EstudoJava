@@ -38,7 +38,7 @@ import java.util.Scanner;
     private static void tabuada(int valor){
         System.out.printf("\n##########################\n");
         System.out.printf("Resultado da Tabuada de %d \n", valor);
-        System.out.printf("##########################\n");
+        System.out.printf("##########################\n"); 
 
         int i = 0;
         while (i <= 10){
