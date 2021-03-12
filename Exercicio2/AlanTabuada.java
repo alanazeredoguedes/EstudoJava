@@ -3,6 +3,8 @@ Nome: Alan Azeredo Guedes
 Matricula: Botar Matricula aqui?, não rola ...
 */
 
+package EstudoJava.Exercicio2;
+
 import java.util.Scanner;
 
   class AlanTabuada {
@@ -32,7 +34,7 @@ import java.util.Scanner;
 
         }
         
-    
+        ler.close();
     }
 
     private static void tabuada(int valor){
